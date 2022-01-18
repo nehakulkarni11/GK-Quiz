@@ -47,7 +47,7 @@ let questionData =[{
     option: "Conakry, Parague, Helsinki, Rome",
    answer: "Helsinki"
   },{
-    question: "8)White elephatns are found in? ",
+    question: "8)White elephants are found in? ",
     option: "Sri Lanka, Malaysia, Thailand, Singapore",
   answer: "Thailand"
   },{
